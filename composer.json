@@ -3,7 +3,6 @@
    "type": "library",
    "description": "Covert php arrays to postgres array-like strings (and the other way around)",
    "keywords": ["array", "postgres"],
-   "license": "GNU GPL v3",
    "authors": [
       {
          "name": "fabs aka (nourdine)"
